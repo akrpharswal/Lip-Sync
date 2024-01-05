@@ -1,4 +1,3 @@
-<b>!!! Check out our new [paper](https://arxiv.org/pdf/2104.11280.pdf) and [framework](https://github.com/snap-research/articulated-animation) improved for articulated objects</b>
 
 
 ### VoxCeleb Dataset
